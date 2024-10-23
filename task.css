@@ -1,0 +1,477 @@
+nav {
+    background-color: black;
+    color: white;
+    padding: 25px;
+    display: flex;
+    font-weight: bold;
+    font-size: large;
+}
+
+nav h {
+    padding-left: 30px;
+}
+
+nav i {
+    padding-left: 90%;
+}
+
+.left {
+    color: white;
+    background-color: black;
+    height: 80%;
+    display: flex;
+}
+
+.row img {
+    width: 95%;
+
+}
+
+.row1 button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.row1 {
+    padding-top: 10%;
+    width: 70%;
+    font-size: larger;
+}
+
+.orange {
+    background-color: orange;
+    padding-bottom: 100px;
+}
+
+.orange h1 {
+    color: white;
+    padding-top: 10px;
+    margin: 0px;
+    font-size: xxx-large;
+}
+
+.red {
+    color: black;
+    display: flex;
+    padding-left: 15%;
+    padding-top: 20px;
+}
+
+.col1 {
+    background-color: white;
+    color: black;
+    text-align: center;
+    width: 16%;
+    margin: 1%;
+
+}
+
+.col1 h4 {
+
+    font-size: larger;
+
+}
+
+.col1 p {
+    padding: 2px;
+}
+
+h1 {
+    font-size: xxx-large;
+}
+
+
+.first {
+    background-color: white;
+}
+
+.second {
+    background-color: white;
+}
+
+.third {
+    background-color: white;
+}
+
+.fourth {
+    background-color: white;
+}
+
+.empty {
+    color: black;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-left: 55px;
+    position: relative;
+    padding-bottom: 200px;
+}
+
+.hold {
+    width: 50%;
+
+
+}
+
+.built {
+    width: 50%;
+}
+
+.hold img {
+    width: 80%;
+    height: 600px;
+    padding-bottom: 30px;
+}
+
+.hold p {
+    font-size: large;
+}
+
+.built img {
+    width: 80%;
+    height: 600px;
+}
+
+.common {
+    width: 23%;
+    margin: 1%;
+    padding: 20px;
+    text-align: center;
+}
+
+.three {
+    display: flex;
+    position: absolute;
+
+    padding-top: 630px;
+    left: 500px;
+}
+
+.three img {
+    width: 270px;
+    height: 270px;
+    margin: 1%;
+
+
+
+}
+
+.feel {
+    width: 48%;
+    margin: 1%;
+    padding: 10px;
+    text-align: center;
+}
+
+.fuse {
+    width: 48%;
+    margin: 1%;
+    padding: 10px;
+    text-align: center;
+}
+
+.full {
+    background-image: url('background.jpg');
+    background-size: 100%;
+    padding: 100px;
+    background-position: top;
+
+}
+
+.model {
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+}
+
+.first {
+    width: 240px;
+    height: 196px;
+    padding: 20px;
+    margin: 1%;
+    color: white;
+    background-color: orange;
+    padding-top: 45px;
+
+}
+
+.first i {
+    font-size: 57px;
+}
+
+.model1 {
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+}
+
+.second {
+    width: 240px;
+    height: 196px;
+    padding: 20px;
+    margin: 1%;
+    color: white;
+    background-color: orange;
+    padding-top: 45px;
+}
+
+.second i {
+    font-size: 57px;
+
+}
+
+.format {
+    padding-left: 15%;
+}
+
+.format h1 {
+    padding-top: 20px 0px;
+}
+
+.format-inner {
+    display: flex;
+
+    color: white;
+
+}
+
+.format-outer {
+    display: flex;
+
+    color: white;
+
+}
+
+.format1 {
+    background-image: url('./images/pic1.jpg');
+    width: 330px;
+    height: 470px;
+    margin: 1%;
+    background-position: 50% 50%;
+    background-size: contain;
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.format2 {
+    background-image: url('./images/pic2.jpg');
+    width: 330px;
+    height: 470px;
+    margin: 1%;
+    background-position: 50% 50%;
+    background-size: contain;
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.format3 {
+    background-image: url('./images/pic3.jpg');
+    width: 330px;
+    height: 470px;
+    margin: 1%;
+    background-position: 50% 50%;
+    background-size: contain;
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+
+}
+
+.format4 {
+    background-image: url('./images/pic4.jpg');
+    width: 330px;
+    height: 470px;
+    margin: 1%;
+    background-position: 50% 50%;
+    background-size: contain;
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.format5 {
+    background-image: url('./images/pic5.jpg');
+    width: 330px;
+    height: 470px;
+    margin: 1%;
+    background-position: 50% 50%;
+    background-size: contain;
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.format6 {
+    background-image: url('./images/pic6.jpg');
+    width: 330px;
+    height: 470px;
+    margin: 1%;
+    background-position: 50% 50%;
+    background-size: contain;
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.escape {
+    background-color: orange;
+    color: black;
+    padding: 40px 0px;
+
+
+}
+
+.row {
+    display: flex;
+    margin: 1%;
+    padding-left: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+.roll1 {
+    background-color: white;
+    margin: 1%;
+    text-align: center;
+}
+
+.roll1 img {
+    width: 270px;
+    height: 230px;
+}
+
+.roll1 img.secy {
+    width: 34px;
+    height: 34px;
+}
+
+.round {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.round p {
+    padding-left: 20px;
+    font-size: large;
+}
+
+.round img {
+    width: 10%;
+
+    border: 10px solid orange;
+    border-radius: 100%;
+    width: 102px;
+    height: 123px;
+
+}
+
+.border1 {
+    display: flex;
+    
+    width: 100%;
+
+}
+.round{
+    width:50%;
+}
+
+.border2 {
+    display: flex;
+    padding: 50px 0px;
+}
+
+.border3 {
+    display: flex;
+    padding: 50px 0px;
+
+}
+
+.end1 {
+    padding-left: 100px;
+    padding-top: 70px;
+}
+
+.box {
+    background-image: url(bg.jpg);
+    width: 1525px;
+    height: 750px;
+    position: relative;
+}
+
+
+.box1 {
+    
+    color: black;
+    background-color: white;
+    width: 827px;
+    height: 584px;
+    margin-left: 270px;
+    margin-top:100px;
+    position: absolute;
+    padding: 30px;
+}
+.box2{
+height: 142px;
+}
+.box3{
+    height: 142px;
+}
+.box2 input{
+    width: 345px; 
+    height: 53px;
+    margin: 2%;
+}
+.box3 input{
+    width: 345px; 
+    height: 53px;
+    margin: 2%;
+
+
+}
+.box label{
+    width: 60px;
+    height: 21px;
+}
+.box p {
+    color: orange;
+
+
+}
+.logic{
+    display: flex;
+
+
+    width: 716px;
+    height: 200px;
+}
+.logic .box3{
+    padding-left:  100px; 
+}
+.logic1{
+    padding-left: 50px;
+}
+.logic1 input{
+    width: 700px;
+    height: 150px;
+
+}
+.logic1 button{
+    background-color: black;
+    color:white;
+    width: 700px;
+    height: 50px;
+}
